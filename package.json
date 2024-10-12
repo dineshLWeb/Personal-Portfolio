@@ -2,7 +2,7 @@
   "name": "portfolio-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dineshWeb.github.io/Portfolio-App.git",
+  "homepage": "https://dineshLWeb.github.io/Personal-Portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
